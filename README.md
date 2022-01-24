@@ -2,6 +2,10 @@
 
 A React Boilerplate with Webpack Babel, CoreJS, and Sass.
 
+## Experimental
+This project was created to further my understanding of Webpack, Babel, and React fundamentals.
+
+
 ## Development Build
 
 ``
